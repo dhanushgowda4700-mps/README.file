@@ -5,5 +5,7 @@
 #        Hi 👋, I'm Dhanush M
 
 # this is about me
-# this about my career
-# this is about my goal
+
+i am dhanush   
+i am persuing the B-TECH in CSE at Chanakya university
+and i am intrested in learning the world of software
